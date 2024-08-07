@@ -5,7 +5,7 @@
 ```rust
 
 fn main() {
-    let name = 'Emerald Dev';
+    let nickname = 'Emerald Dev';
     let acknowledgements = 'Software Engineer';
 
     let country = 'United States';
